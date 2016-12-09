@@ -1,3 +1,4 @@
 this is the cls1 in sclrepo
 hello from cls1
 
+some more changes to know about STASHING
